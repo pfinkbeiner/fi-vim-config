@@ -6,7 +6,7 @@ For a detailed description of each plugin I would recommend their own git reposi
 ## Usage
 `git clone --recursive https://github.com/pfinkbeiner/fi-vim-config.git ~/.vim`
 
-`ln -s ~/.vim/.vimrc`
+`cd && ln -s ~/.vim/.vimrc`
 
 
 ## List of plugins.
