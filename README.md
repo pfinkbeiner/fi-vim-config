@@ -4,7 +4,7 @@ This repository contains my current vim config with all plugins that i love to u
 For a detailed description of each plugin I would recommend their own git repository.
 
 ## Usage
-`git clone --recursive git@github.com:pfinkbeiner/fi-vim-config.git ~/.vim`
+`git clone --recursive https://github.com/pfinkbeiner/fi-vim-config.git ~/.vim`
 
 `ln -s ~/.vim/.vimrc`
 
