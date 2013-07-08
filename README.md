@@ -9,8 +9,9 @@ For a detailed description of each plugin I would recommend their own git reposi
 `cd && ln -s ~/.vim/.vimrc`
 
 ### Notice
-Sometimes after cloning the current vimconfi you might get some error while commiting.
-In my case `git config --global core.editor /usr/bin/vim` fixed the
+Sometimes after cloning my current vimconfig you might get some error while commiting.
+It seems that vim doens't exit clean. So look where your vim is located
+with `which vim`. In my case `git config --global core.editor /usr/bin/vim` fixed the
 problem.
 
 
