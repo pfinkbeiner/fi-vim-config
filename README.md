@@ -8,6 +8,11 @@ For a detailed description of each plugin I would recommend their own git reposi
 
 `cd && ln -s ~/.vim/.vimrc`
 
+### Notice
+Sometimes after cloning the current vimconfi you might get some error while commiting.
+In my case `git config --global core.editor /usr/bin/vim` fixed the
+problem.
+
 
 ## List of plugins.
 * [endwise](https://github.com/tpope/vim-endwise)
