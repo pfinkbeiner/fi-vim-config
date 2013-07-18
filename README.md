@@ -20,6 +20,7 @@ problem.
 * [fugitive](https://github.com/tpope/vim-fugitive)
 * [obsession](https://github.com/tpope/vim-obsession)
 * [surround](https://github.com/tpope/vim-surround)
+* [gundo](https://github.com/sjl/gundo.vim.git)
 * [zencoding](https://github.com/mattn/zencoding-vim)
 * [Gist](https://github.com/mattn/gist-vim)
 * [NerdTree](https://github.com/scrooloose/nerdtree)
