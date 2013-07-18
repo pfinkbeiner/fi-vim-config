@@ -52,4 +52,6 @@ autocmd BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
 " map :Tlist (taglist) to F8
 map <C-N> :NERDTree<cr>
 
+nnoremap <C-G> :GundoToggle<CR>
+
 finish
