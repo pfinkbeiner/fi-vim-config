@@ -21,6 +21,7 @@ set showcmd
 set history=50
 set incsearch 
 set encoding=utf-8
+set hlsearch
 
 set wildmode=longest,list,full
 
