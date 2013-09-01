@@ -21,6 +21,7 @@ problem.
 * [obsession](https://github.com/tpope/vim-obsession)
 * [surround](https://github.com/tpope/vim-surround)
 * [gundo](https://github.com/sjl/gundo.vim.git)
+* [jshint](git://github.com/sleistner/vim-jshint.git)
 * [zencoding](https://github.com/mattn/zencoding-vim)
 * [Gist](https://github.com/mattn/gist-vim)
 * [NerdTree](https://github.com/scrooloose/nerdtree)
