@@ -22,6 +22,7 @@ problem.
 * [surround](https://github.com/tpope/vim-surround)
 * [gundo](https://github.com/sjl/gundo.vim.git)
 * [jshint](git://github.com/sleistner/vim-jshint.git)
+* [LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box)
 * [zencoding](https://github.com/mattn/zencoding-vim)
 * [Gist](https://github.com/mattn/gist-vim)
 * [NerdTree](https://github.com/scrooloose/nerdtree)
