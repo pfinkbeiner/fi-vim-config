@@ -35,7 +35,7 @@ autocmd FileType jade set tw=0 sw=2 tabstop=2 expandtab spell nu
 autocmd FileType stylus set tw=0 sw=2 tabstop=2 expandtab spell nu
 autocmd FileType text set tw=72 sw=4 tabstop=4 expandtab spell
 autocmd FileType php set binary noeol tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab textwidth=0 number
-autocmd FileType tex  set tw=80 nu tabstop=4 sw=4 expandtab nu spell 
+autocmd FileType tex  set tw=120 nu tabstop=4 sw=4 expandtab nu spl=de
 autocmd FileType cpp set tw=0 cindent nu sw=4
 autocmd FileType make set tw=0
 autocmd FileType awk set tw=0
