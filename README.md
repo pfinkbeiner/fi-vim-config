@@ -11,7 +11,7 @@ For a detailed description of each plugin I would recommend their own git reposi
 ## Update Bundles
 
 Updating all bundles at once is easy. Just enter the following command
-whitin your .vim/ directory.
+whitin your `.vim/` directory.
 `git submodule foreach git pull origin master && git submodule update`
 
 ### Notice
@@ -29,7 +29,7 @@ problem.
 * [gundo](https://github.com/sjl/gundo.vim.git)
 * [jshint](git://github.com/sleistner/vim-jshint.git)
 * [LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box)
-* [zencoding](https://github.com/mattn/emmet-vim.git)
+* [Emmet FKA zencoding](https://github.com/mattn/emmet-vim.git)
 * [Gist](https://github.com/mattn/gist-vim)
 * [NerdTree](https://github.com/scrooloose/nerdtree)
 * [SnipMate](https://github.com/msanders/snipmate.vim)
