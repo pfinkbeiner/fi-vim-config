@@ -22,20 +22,21 @@ problem.
 
 
 ## List of plugins.
+* [coffee-script](https://github.com/kchmck/vim-coffee-script)
+* [colors-solarized](https://github.com/altercation/vim-colors-solarized)
+* [Emmet FKA zencoding](https://github.com/mattn/emmet-vim.git)
 * [endwise](https://github.com/tpope/vim-endwise)
 * [fugitive](https://github.com/tpope/vim-fugitive)
-* [obsession](https://github.com/tpope/vim-obsession)
-* [surround](https://github.com/tpope/vim-surround)
+* [Gist](https://github.com/mattn/gist-vim)
 * [gundo](https://github.com/sjl/gundo.vim.git)
 * [jshint](git://github.com/sleistner/vim-jshint.git)
 * [LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box)
-* [Emmet FKA zencoding](https://github.com/mattn/emmet-vim.git)
-* [Gist](https://github.com/mattn/gist-vim)
 * [NerdTree](https://github.com/scrooloose/nerdtree)
+* [obsession](https://github.com/tpope/vim-obsession)
+* [surround](https://github.com/tpope/vim-surround)
 * [SnipMate](https://github.com/msanders/snipmate.vim)
 * [supertab](https://github.com/ervandew/supertab)
-* [coffee-script](https://github.com/kchmck/vim-coffee-script)
-* [colors-solarized](https://github.com/altercation/vim-colors-solarized)
+* _typoscript syntax highlighting_
 
 
 That's it, happy coding.
