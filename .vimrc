@@ -1,3 +1,9 @@
+set nocompatible
+set autoindent
+set noerrorbells
+set backspace=indent,eol,start
+set magic
+
 " Pathogen
 execute pathogen#infect()
 
@@ -9,7 +15,9 @@ colo desert
 set gfn=DejaVu\ Sans\ Mono:h18
 
 syntax on
-filetype plugin indent on
+filetype plugin on
+filetype indent on
+syntax enable " :
 
 " replace tab with 4 spaces
 " set tabstop=4
@@ -25,6 +33,10 @@ set hlsearch
 
 set wildmode=longest,list,full
 
+set noerrorbells 
+set novisualbell
+set t_vb=
+autocmd! GUIEnter * set vb t_vb=
 
 " Zencoding shortcut
 let g:user_zen_expandabbr_key = '<c-y>,'
@@ -50,6 +62,8 @@ autocmd FileType html set tw=0 number
 autocmd FileType xhtml set tw=0 number
 autocmd FileType md set tw=0 number
 autocmd BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
+au BufRead,BufNewFile *.ts set filetype=typoscript
+
 
 " LaTeX notes
 let g:Tex_ViewRuleComplete_pdf = 'open $*.pdf' 
