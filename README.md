@@ -22,9 +22,10 @@ problem.
 
 
 ## List of plugins.
+* [abolish](https://github.com/tpope/vim-abolish)
 * [coffee-script](https://github.com/kchmck/vim-coffee-script)
 * [colors-solarized](https://github.com/altercation/vim-colors-solarized)
-* [Emmet FKA zencoding](https://github.com/mattn/emmet-vim.git)
+* [Emmet](https://github.com/mattn/emmet-vim.git)
 * [endwise](https://github.com/tpope/vim-endwise)
 * [fugitive](https://github.com/tpope/vim-fugitive)
 * [Gist](https://github.com/mattn/gist-vim)
@@ -36,6 +37,7 @@ problem.
 * [surround](https://github.com/tpope/vim-surround)
 * [SnipMate](https://github.com/msanders/snipmate.vim)
 * [supertab](https://github.com/ervandew/supertab)
+* [Webapi](https://github.com/mattn/webapi-vim)
 * _typoscript syntax highlighting_
 
 
